@@ -1,0 +1,10 @@
+name: .github/workflows
+on:
+  workflow_dispatch:
+jobs:
+  do:
+    runs-on: ubuntu-latest
+    steps:
+      - name: do
+        run: |
+          ls
