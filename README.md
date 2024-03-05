@@ -72,6 +72,7 @@
 
 > 工具
 
+//whatslink.info,磁力链接预览
 //riyutool.com/keyboard,在线日语输入法
 //tb.daidr.me,逻辑表达式生成真值表
 //www.32x8.com,真值表生成逻辑表达式
