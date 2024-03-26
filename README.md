@@ -2,6 +2,7 @@
 
 > 小说漫画
 
+//www.amazon.com/sendtokindle,发送到Kindle
 //ixunshu.net,爱寻书
 //zh.annas-archive.org,安娜的档案馆
 //www.e365xs.com,365中文小说网
