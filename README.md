@@ -2,7 +2,7 @@
 
 > 小说漫画
 
-//www.amazon.com/sendtokindle,发送到Kindle
+//www.amazon.com/sendtokindle,发送到kindle
 //ixunshu.net,爱寻书
 //zh.annas-archive.org,安娜的档案馆
 //www.e365xs.com,365中文小说网
@@ -34,6 +34,7 @@
 
 > 图文工具
 
+//mobi2epub.com,mobi转epub
 //sorry.xuty.cc,生成表情包动图
 //bigjpg.com,bigjpg
 //www.diffchecker.com,文本对比
