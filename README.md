@@ -34,7 +34,9 @@
 
 > 图文工具
 
-//mobi2epub.com,mobi转epub
+//squoosh.app,谷歌图片压缩
+//zh.recompressor.com,图片压缩
+//www.picdiet.com,jpg压缩
 //sorry.xuty.cc,生成表情包动图
 //bigjpg.com,bigjpg
 //www.diffchecker.com,文本对比
