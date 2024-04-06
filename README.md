@@ -96,9 +96,9 @@
 
 //fars.ee/f,fars.ee
 //0x0.st,0x0.st
-//www.file.io,file.io临时盘
+//www.file.io,file.io
 //yunge.in,云鸽互传
-//snapdrop.net,snapdrop互传
+//snapdrop.net,snapdrop
 //www.multcloud.com,multcloud
 //office365.com,onedrive
 //drive.google.com,googledrive
