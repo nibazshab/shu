@@ -113,7 +113,8 @@
 
 > 游戏
 
-//flash.zczc.cz/,flash游戏
+//lichess.org,国际象棋
+//flash.zczc.cz,flash游戏
 //dos.lol,dos游戏
 //www.lanzout.com/iwXPw1nnoraj,拳皇wing1.91
 //www.lanzout.com/iIkVb1nnosej,死神vs火影2.6
