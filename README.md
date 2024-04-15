@@ -34,7 +34,7 @@
 
 > 图文工具
 
-//squoosh.app,谷歌图片压缩
+//telegra.ph,匿名文章发布
 //zh.recompressor.com,图片压缩
 //www.picdiet.com,jpg压缩
 //sorry.xuty.cc,生成表情包动图
