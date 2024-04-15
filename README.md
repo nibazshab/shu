@@ -34,7 +34,7 @@
 
 > 图文工具
 
-//telegra.ph,匿名文章发布
+//telegra.ph,telegraph
 //zh.recompressor.com,图片压缩
 //www.picdiet.com,jpg压缩
 //sorry.xuty.cc,生成表情包动图
@@ -100,7 +100,7 @@
 //yunge.in,云鸽互传
 //snapdrop.net,snapdrop
 //www.multcloud.com,multcloud
-//office365.com,onedrive
+//office365.com,office365
 //drive.google.com,googledrive
 //terabox.com,terabox
 //www.loadbt.com,loadbt
