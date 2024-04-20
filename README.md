@@ -64,6 +64,7 @@
 //db4free.net,db4free.net
 //freedb.tech,freedb.tech
 //www.thc.org/segfault,segfault
+//shell.segfault.net,segfaultweb
 //panel.ct8.pl,ct8.pl vhost
 //lightly.teamcode.com,lightly ide
 //stackblitz.com,stackblitz
