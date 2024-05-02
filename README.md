@@ -53,22 +53,21 @@
 
 > 开发
 
-//www.sqlpub.com,sqlpub
-//it365.gitlab.io/zh-cn/decode,it365文件编码转换
-//abctool.gitlab.io/encoding-detector,abctool文件编码转换
 //hooks.upyun.com,网络请求测试
+//www.sqlpub.com,sqlpub
 //cloud.mongodb.com,mongodb
 //uptimerobot.com,uptimerobot
 //mirror.ghproxy.com,ghproxy
 //www.backblaze.com,b2
 //db4free.net,db4free.net
 //freedb.tech,freedb.tech
-//www.thc.org/segfault,segfault
+//www.thc.org,thc.org
 //shell.segfault.net,segfaultweb
 //panel.ct8.pl,ct8.pl vhost
 //lightly.teamcode.com,lightly ide
 //stackblitz.com,stackblitz
 //replit.com,replit
+//www.koyeb.com,koyeb
 //glitch.com,glitch.me
 //jetbra.in/s,jetbrains破解
 //free-for.dev,免费资源
@@ -78,6 +77,8 @@
 
 > 工具
 
+//it365.gitlab.io/zh-cn/decode,it365文件编码转换
+//abctool.gitlab.io/encoding-detector,abctool文件编码转换
 //whatslink.info,磁力链接预览
 //riyutool.com/keyboard,在线日语输入法
 //tb.daidr.me,逻辑表达式生成真值表
