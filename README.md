@@ -1,6 +1,6 @@
 <!--
 
-> 资源工具网站
+> 资源工具站
 
 //app.flowoss.com,flow
 //reader.nxnow.top,阅读
@@ -15,7 +15,7 @@
 //yuc.wiki,新番资讯
 //anilist.co,anilist
 
-> 图文影视资源
+> 影视文字资源
 
 //ixunshu.net,爱寻书
 //zh.annas-archive.org,安娜的档案馆
@@ -53,7 +53,7 @@
 //www.deepl.com/translator,deepl
 //fanyi.caiyunapp.com,彩云小译
 
-> 办公文档类
+> 文档办公
 
 //note.wps.cn,wps便签
 //mubu.com,幕布
@@ -66,7 +66,7 @@
 //mdit-plugins.github.io/zh/tex.html,mdittex
 //www.amazon.com/sendtokindle,发送到kindle
 
-> 在线开发工具
+> 开发工具类
 
 //sms-activate.org/cn/freeNumbers,接码平台
 //www.meiguodizhi.com,生成外国身份
@@ -80,7 +80,7 @@
 //stackblitz.com,stackblitz
 //shell.segfault.net,segfault
 
-> 网络技术资源
+> 网络资源
 
 //tld-list.com,tld-list域名比价
 //www.backblaze.com,b2对象存储
@@ -101,7 +101,7 @@
 //fars.ee/f,fars.ee
 //0x0.st,0x0.st
 
-> 服务部署平台
+> 服务平台
 
 //replit.com,replit
 //www.koyeb.com,koyeb
@@ -110,7 +110,7 @@
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 
-> 软件游戏平台
+> 软件游戏类
 
 //ipalibrary.me,ipalibrary
 //en.uptodown.com,uptodown
