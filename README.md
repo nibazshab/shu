@@ -44,7 +44,6 @@
 //yandex.com/images,yandex搜图
 //images.google.com,谷歌搜图
 //saucenao.cn,saucenao
-//imgtg.com,imgtg图床
 //books.fishhawk.top,轻小说翻译机器人
 //riyutool.com/keyboard,在线日语输入法
 //it365.gitlab.io/zh-cn/decode,it365字符编码
