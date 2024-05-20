@@ -25,6 +25,7 @@ jobs:
           sed -E '/(<!--|-->)/d' -i index.html
           sed -E 's@(^//.*.?),(.*)@<a href="\1" target="_blank">\2</a>@g' -i index.html
           sed -E 's@^> (.*)@<h2>\1</h2>@g' -i index.html
+          sed ':a;N;s/\n//g;ta' -i index.html
           echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">' >> index.html
           echo '<meta name="viewport" content="width=device-width, initial-scale=1.0">' >> index.html
           echo '<style>a { margin-right: 15px; }</style>' >> index.html
