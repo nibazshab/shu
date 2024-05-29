@@ -78,7 +78,7 @@
 //chato.free2gpt.xyz,free2gpt
 //geminiprochat.com,谷歌ai
 //mirror.ghproxy.com,github代理
-//hooks.upyun.com,网络请求测试
+//hooks.upyun.com,又拍云回调服务
 //lightly.teamcode.com,lightly
 //stackblitz.com,stackblitz
 //shell.segfault.net,segfault
