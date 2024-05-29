@@ -130,6 +130,7 @@
 //www.mhhf.com,经典flash游戏
 //h5mota.com,魔塔
 //www.protondb.com,proton兼容查询
+//zh.y8.com/games/8_ball_pool_html5,黑八台球
 
 > 存储和传输
 
