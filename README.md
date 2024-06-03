@@ -69,6 +69,7 @@
 
 > 开发工具类
 
+//highlightcode.com,代码高亮
 //service.spiritsoft.cn/ua.html,ua检测
 //www.mail-tester.com,测试垃圾邮件
 //10minutemail.net,十分钟邮箱
