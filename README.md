@@ -159,6 +159,7 @@
 
 > 不可名状
 
+//yacd.haishan.me,yacd仪表盘
 //clash.razord.top,clash仪表盘
 //ikuuu.me,ikuuu代理
 //paopaogou.xyz,paopaodog代理
