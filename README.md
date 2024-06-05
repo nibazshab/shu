@@ -81,6 +81,7 @@
 //chato.free2gpt.xyz,free2gpt
 //geminiprochat.com,谷歌ai
 //mirror.ghproxy.com,github代理
+//www.croxy.network,网页代理
 //webhookinbox.com,web回调测试
 //hooks.upyun.com,又拍云回调服务(X)
 //lightly.teamcode.com,lightly
