@@ -21,7 +21,6 @@
 //wallspic.com,wallspic壁纸
 //ixunshu.net,爱寻书
 //zh.annas-archive.org,安娜的档案馆
-//www.e365xs.com,365中文小说网
 //ifun.cool,趣集
 //onehu.xyz,我不是盐神
 //beitai.cc,备胎书屋
@@ -83,7 +82,6 @@
 //mirror.ghproxy.com,github代理
 //www.croxy.network,网页代理
 //webhookinbox.com,web回调测试
-//hooks.upyun.com,又拍云回调服务(X)
 //lightly.teamcode.com,lightly
 //stackblitz.com,stackblitz
 //shell.segfault.net,segfault
@@ -157,6 +155,12 @@
 //vault.bitwarden.com,bitwarden密码
 //mail.qq.com,qq邮箱
 
+> 用不了
+
+//www.e365xs.com,365中文小说网
+//hooks.upyun.com,又拍云回调服务
+
+
 > 不可名状
 
 //yacd.haishan.me,yacd仪表盘
@@ -183,5 +187,5 @@
 //sakustar.com,樱赞繁星
 //qingju.vercel.app,青桔网
 //www4.javhdporn.net,javhd
-
+//njav.tv,njav
 -->
