@@ -149,7 +149,7 @@
 //arch.icekylin.online,archlinux安装手册
 //limestart.cn,青柠起始页
 //go.itab.link,itab起始页
-//www.kookapp.cn,kook语音
+//web.oopz.cn,oopz语音
 //web.telegram.org,telegram
 //vault.bitwarden.com,bitwarden
 //mail.qq.com,qq邮箱
