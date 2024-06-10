@@ -88,7 +88,7 @@
 
 > 网络资源
 
-//tld-list.com,tld-list域名比价
+//tld-list.com,tld域名比价
 //www.backblaze.com,b2对象存储
 //www.sqlpub.com,sqlpub
 //cloud.mongodb.com,mongodb
@@ -122,6 +122,7 @@
 //en.uptodown.com,uptodown
 //store.rg-adguard.net,msstoregp
 //jetbra.in/s,jetbrains破解
+//www.protondb.com,proton兼容查询
 //lichess.org,国际象棋
 //flash.zczc.cz,flash游戏
 //dos.lol,dos游戏
@@ -131,7 +132,6 @@
 //www.gamer520.com,laoquzhang520
 //www.mhhf.com,经典flash游戏
 //h5mota.com,魔塔
-//www.protondb.com,proton兼容查询
 //zh.y8.com/games/8_ball_pool_html5,黑八台球
 
 > 存储和传输
@@ -152,7 +152,7 @@
 //go.itab.link,itab起始页
 //www.kookapp.cn,kook语音
 //web.telegram.org,telegram
-//vault.bitwarden.com,bitwarden密码
+//vault.bitwarden.com,bitwarden
 //mail.qq.com,qq邮箱
 
 > 用不了
@@ -165,8 +165,6 @@
 
 //yacd.haishan.me,yacd仪表盘
 //clash.razord.top,clash仪表盘
-//ikuuu.me,ikuuu代理
-//paopaogou.xyz,paopaodog代理
 //www.yuhuage.win,雨花阁番号搜索
 //soutubot.moe,搜本子机器人
 //manhuabika.com,哔咔漫画
@@ -177,14 +175,10 @@
 //i.iacg.site,iacg博客
 //sukebei.nyaa.si,nyaa里站
 //hanime1.me,hanime里番
-//acgngames.net,acgngame
 //mmgal.com,忧郁的loli
-//lspgal.top,极点acg
+//acgngames.net,acgngame
 //www.lzacg.net,量子acg
 //www.touchgal.com,touchgal
-//www.gogalgame.com,绅仕天堂
-//www.shinnku.com,失落小站
-//sakustar.com,樱赞繁星
 //qingju.vercel.app,青桔网
 //www4.javhdporn.net,javhd
 //njav.tv,njav
