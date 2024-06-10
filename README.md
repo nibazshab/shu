@@ -23,7 +23,6 @@
 //zh.annas-archive.org,安娜的档案馆
 //ifun.cool,趣集
 //onehu.xyz,我不是盐神
-//beitai.cc,备胎书屋
 //www.lightnovel.us,轻之国度
 //masiro.me,真白萌
 //www.mangabz.com,mangabz
