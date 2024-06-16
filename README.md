@@ -72,6 +72,7 @@
 //service.spiritsoft.cn/ua.html,ua检测
 //www.mail-tester.com,测试垃圾邮件
 //10minutemail.net,十分钟邮箱
+//etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
 //www.meiguodizhi.com,生成外国身份
 //telegra.ph,telegraph
