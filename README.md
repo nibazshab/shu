@@ -107,6 +107,7 @@
 
 > 服务平台
 
+//16personalities.com,性格测试
 //10minutemail.net,十分钟邮箱
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
