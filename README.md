@@ -72,9 +72,6 @@
 //highlightcode.com,代码高亮
 //service.spiritsoft.cn/ua.html,ua检测
 //www.mail-tester.com,测试垃圾邮件
-//10minutemail.net,十分钟邮箱
-//etempmail.com,临时教育邮箱
-//sms-activate.org/cn/freeNumbers,接码平台
 //www.meiguodizhi.com,生成外国身份
 //telegra.ph,telegraph
 //ol.woobx.cn,一个木函
@@ -110,6 +107,9 @@
 
 > 服务平台
 
+//10minutemail.net,十分钟邮箱
+//etempmail.com,临时教育邮箱
+//sms-activate.org/cn/freeNumbers,接码平台
 //replit.com,replit
 //www.koyeb.com,koyeb
 //glitch.com,glitch.me
@@ -134,6 +134,7 @@
 //www.mhhf.com,经典flash游戏
 //h5mota.com,魔塔
 //zh.y8.com/games/8_ball_pool_html5,黑八台球
+//www.shj.work/tools/secha,找色差游戏
 
 > 存储和传输
 
