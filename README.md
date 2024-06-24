@@ -15,6 +15,7 @@
 //mm-player.vercel.app,mm-player
 //yuc.wiki,新番资讯
 //anilist.co,anilist
+//www.amazon.com/sendtokindle,发送到kindle
 
 > 影视文字资源
 
@@ -46,12 +47,9 @@
 //saucenao.cn,saucenao
 //books.fishhawk.top,轻小说翻译机器人
 //riyutool.com/keyboard,在线日语输入法
-//it365.gitlab.io/zh-cn/decode,it365字符编码
-//abctool.gitlab.io/encoding-detector,abctool字符编码
+//it365.gitlab.io/zh-cn/decode,it365乱码工具
+//abctool.gitlab.io/encoding-detector,abctool乱码工具
 //www.diffchecker.com,文本对比
-//fanyi.youdao.com,有道翻译
-//www.deepl.com/translator,deepl
-//fanyi.caiyunapp.com,彩云小译
 
 > 文档办公
 
@@ -60,61 +58,52 @@
 //www.kdocs.cn,金山文档
 //www.ilovepdf.com/zh-cn,ilovepdf
 //app.diagrams.net,draw.io
-//tb.daidr.me,逻辑表达式to真值表
-//www.32x8.com,真值表to逻辑表达式
 //katex.org/docs/supported.html,katex
-//mdit-plugins.github.io/zh/tex.html,mdittex
-//www.amazon.com/sendtokindle,发送到kindle
+//telegra.ph,telegraph
+//www.deepl.com/translator,deepl
+//fanyi.caiyunapp.com,彩云小译
 
-> 开发工具类
+> 页面工具类
 
 //www.runoob.com/runcode,html代码运行
 //highlightcode.com,代码高亮
 //service.spiritsoft.cn/ua.html,ua检测
-//www.mail-tester.com,测试垃圾邮件
+//webhookinbox.com,web回调测试
 //www.meiguodizhi.com,生成外国身份
-//telegra.ph,telegraph
 //ol.woobx.cn,一个木函
-//chato.free2gpt.xyz,free2gpt
-//geminiprochat.com,谷歌ai
 //mirror.ghproxy.com,github代理
 //www.croxy.network,网页代理
-//webhookinbox.com,web回调测试
-//lightly.teamcode.com,lightly
-//stackblitz.com,stackblitz
-//shell.segfault.net,segfault
-
-> 网络资源
-
-//tld-list.com,tld域名比价
-//www.backblaze.com,b2对象存储
-//www.sqlpub.com,sqlpub
-//cloud.mongodb.com,mongodb
-//db4free.net,db4free.net
-//freedb.tech,freedb.tech
-//uptimerobot.com,uptimerobot
-//www.thc.org,thc.org
-//free-for.dev,free-for资源列表
-//gitee.com/click33/chatgpt---mirror-station-summary,gpt列表
-//nic.eu.org,eu.org
-//www.now.cc,now.cc
-//www.freenom.com,freenom
-//www.sitelutions.com/auth/dns_nsrecord,sitelutions
-//gitea.com/xiu2/trackerslistcollection/raw/branch/master/all_aria2.txt,tracker
-//greasyfork.org/zh-cn,greasyfork
-//fars.ee/f,fars.ee
-//0x0.st,0x0.st
-
-> 服务平台
-
-//16personalities.com,性格测试
+//stackblitz.com,stackblitz在线ide
+//lightly.teamcode.com,lightly在线ide
 //10minutemail.net,十分钟邮箱
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
+//shell.segfault.net,segfault
+
+> 资讯平台类
+
+//trackerslist.com,tracker
+//greasyfork.org/zh-cn,greasyfork
+//free-for.dev,free-for资源列表
+//github.com/click33/chatgpt---mirror-station-summary,gpt列表
+//chato.free2gpt.xyz,free2gpt
+//geminiprochat.com,谷歌ai
+//www.backblaze.com,b2对象存储
+//cloud.mongodb.com,mongodb
+//www.sqlpub.com,sqlpub
+//db4free.net,db4free.net
+//freedb.tech,freedb.tech
+//tld-list.com,tld域名比价
+//nic.eu.org,eu.org域名
+//www.now.cc,now.cc域名
+//register.us.kg,us.kg域名
+//www.freenom.com,freenom域名
+//www.sitelutions.com,rr.nu域名
 //replit.com,replit
 //www.koyeb.com,koyeb
 //glitch.com,glitch.me
 //panel.ct8.pl,ct8.pl
+//uptimerobot.com,uptimerobot
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 
@@ -141,8 +130,10 @@
 
 //yunge.in,云鸽互传
 //snapdrop.net,snapdrop
-//www.file.io,file.io
-//www.multcloud.com,multcloud
+//www.file.io,file.io临时传输
+//fars.ee/f,fars.ee
+//0x0.st,0x0.st
+//www.multcloud.com,multcloud网盘搬运
 //office365.com,office365
 //drive.google.com,谷歌drive
 //terabox.com,海外百度网盘
@@ -156,13 +147,11 @@
 //web.oopz.cn,oopz语音
 //web.telegram.org,telegram
 //vault.bitwarden.com,bitwarden
-//mail.qq.com,qq邮箱
 
 > 用不了
 
 //www.e365xs.com,365中文小说网
 //hooks.upyun.com,又拍云回调服务
-
 
 > 不可名状
 
@@ -185,4 +174,5 @@
 //qingju.vercel.app,青桔网
 //www4.javhdporn.net,javhd
 //njav.tv,njav
+
 -->
