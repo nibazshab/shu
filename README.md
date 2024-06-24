@@ -36,6 +36,7 @@
 
 > 图文处理
 
+//cli.im/deqr,扫描二维码
 //sorry.xuty.cc,生成表情包动图
 //www.tldraw.com,tldraw
 //www.photopea.com,photoshop
