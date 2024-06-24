@@ -80,7 +80,7 @@
 //sms-activate.org/cn/freeNumbers,接码平台
 //shell.segfault.net,segfault
 
-> 资讯平台类
+> 资讯平台
 
 //trackerslist.com,tracker
 //greasyfork.org/zh-cn,greasyfork
@@ -107,7 +107,7 @@
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 
-> 软件游戏类
+> 软件游戏
 
 //ipalibrary.me,ipalibrary
 //en.uptodown.com,uptodown
