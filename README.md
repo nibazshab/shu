@@ -48,9 +48,8 @@
 //saucenao.cn,saucenao
 //books.fishhawk.top,轻小说翻译机器人
 //riyutool.com/keyboard,在线日语输入法
-//it365.gitlab.io/zh-cn/decode,it365乱码工具
-//abctool.gitlab.io/encoding-detector,abctool乱码工具
-//www.diffchecker.com,文本对比
+//abctool.gitlab.io/encoding-detector,abc文件编码检测
+//www.webutils.app/text-diff,文本对比
 
 > 文档办公
 
