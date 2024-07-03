@@ -74,7 +74,6 @@
 //mirror.ghproxy.com,github代理
 //www.croxy.network,网页代理
 //stackblitz.com,stackblitz在线ide
-//lightly.teamcode.com,lightly在线ide
 //10minutemail.net,十分钟邮箱
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
