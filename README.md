@@ -2,7 +2,8 @@
 
 > 资源工具站
 
-//webtor.io,webtor
+//m3u8player.org,m3u8播发器
+//webtor.io,webtor磁力播放
 //app.flowoss.com,flow
 //reader.nxnow.top,阅读
 //www.neat-reader.cn,neat
@@ -79,7 +80,7 @@
 //sms-activate.org/cn/freeNumbers,接码平台
 //shell.segfault.net,segfault
 
-> 资讯平台
+> 服务平台
 
 //trackerslist.com,tracker
 //greasyfork.org/zh-cn,greasyfork
