@@ -4,9 +4,9 @@
 
 //m3u8player.org,m3u8播发器
 //webtor.io,webtor磁力播放
-//app.flowoss.com,flow
+//app.flowoss.com,flowreader
 //reader.nxnow.top,阅读
-//www.neat-reader.cn,neat
+//www.neat-reader.cn,neatreader
 //reader.960960.xyz,koodo
 //eacg.net,eacg
 //ani.gamer.com.tw,巴哈姆特动画疯
