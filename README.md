@@ -85,6 +85,7 @@
 
 //trackerslist.com,tracker
 //greasyfork.org/zh-cn,greasyfork
+//alternativeto.net,替代品网站
 //free-for.dev,free-for资源列表
 //github.com/click33/chatgpt---mirror-station-summary,gpt列表
 //chato.free2gpt.xyz,free2gpt
