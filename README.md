@@ -115,6 +115,7 @@
 //store.rg-adguard.net,msstoregp
 //jetbra.in/s,jetbrains破解
 //www.protondb.com,proton兼容查询
+//game.hullqin.cn,桌游合集
 //lichess.org,国际象棋
 //flash.zczc.cz,flash游戏
 //dos.lol,dos游戏
