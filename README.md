@@ -21,7 +21,6 @@
 > 影视文字资源
 
 //wallspic.com,wallspic壁纸
-//ixunshu.net,爱寻书
 //zh.annas-archive.org,安娜的档案馆
 //ifun.cool,趣集
 //onehu.xyz,我不是盐神
