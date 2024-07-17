@@ -13,6 +13,7 @@
 //www.zzzfun.one,zzzfun
 //ddys.site,低端影视
 //whatslink.info,磁力链接预览
+//pt.sayqz.com,简繁音乐
 //mm-player.vercel.app,mm-player
 //yuc.wiki,新番资讯
 //anilist.co,anilist
@@ -20,6 +21,8 @@
 
 > 影视文字资源
 
+//www.jiumodiary.com,鸠摩搜书
+//zxcs.info,知轩藏书
 //wallspic.com,wallspic壁纸
 //zh.annas-archive.org,安娜的档案馆
 //ifun.cool,趣集
