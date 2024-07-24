@@ -53,7 +53,6 @@
 //images.google.com,谷歌搜图
 //saucenao.cn,saucenao
 //books.fishhawk.top,轻小说翻译机器人
-//riyutool.com/keyboard,在线日语输入法
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
 //www.webutils.app/text-diff,文本对比
 
@@ -84,6 +83,7 @@
 //10minutemail.net,十分钟邮箱
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
+//riyutool.com/keyboard,在线日语输入法
 //shell.segfault.net,segfault
 
 > 服务平台
