@@ -116,6 +116,7 @@
 
 > 软件游戏
 
+//apkpremier.com,apkpremier
 //ipalibrary.me,ipalibrary
 //en.uptodown.com,uptodown
 //store.rg-adguard.net,msstoregp
