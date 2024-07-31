@@ -51,7 +51,7 @@
 //bigjpg.com,bigjpg
 //yandex.com/images,yandex搜图
 //images.google.com,谷歌搜图
-//saucenao.cn,saucenao
+//saucenao.com,saucenao
 //books.fishhawk.top,轻小说翻译机器人
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
 //www.webutils.app/text-diff,文本对比
