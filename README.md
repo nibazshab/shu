@@ -173,8 +173,9 @@
 //manhuabika.com,哔咔漫画
 //dashboard.tipatipa.xyz,哔咔骑士后台
 //e-hentai.org,ehentai表站
-//hitomi.la,hitomi
 //nhentai.net,nhentai
+//18comic.vip,禁漫天堂
+//hitomi.la,hitomi
 //i.iacg.site,iacg博客
 //sukebei.nyaa.si,nyaa里站
 //hanime1.me,hanime里番
