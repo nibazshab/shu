@@ -39,4 +39,4 @@ jobs:
         uses: actions/deploy-pages@v4
 
       - name: post
-        run: sleep 3 && curl -X POST ${{ secrets.SECRET }}
+        run: sleep 3 && curl ${{ secrets.WEBHOOK_ADDRESS }}
