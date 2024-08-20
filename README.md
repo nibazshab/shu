@@ -176,7 +176,7 @@
 //nhentai.net,nhentai
 //18comic.vip,禁漫天堂
 //hitomi.la,hitomi
-//i.iacg.site,iacg博客
+//b.iacg.site,iacg博客
 //sukebei.nyaa.si,nyaa里站
 //hanime1.me,hanime里番
 //mmgal.com,忧郁的loli
