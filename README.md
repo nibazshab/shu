@@ -25,6 +25,7 @@
 //zxcs.info,知轩藏书
 //wallspic.com,wallspic壁纸
 //zh.annas-archive.org,安娜的档案馆
+//z-lib.gs,zlibrary
 //ifun.cool,趣集
 //onehu.xyz,我不是盐神
 //www.esjzone.cc,esj
