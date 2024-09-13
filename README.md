@@ -185,6 +185,7 @@
 //www.lzacg.net,量子acg
 //www.touchgal.com,touchgal
 //qingju.vercel.app,青桔网
+//theporndude.com,theporndude
 //www4.javhdporn.net,javhd
 //njav.tv,njav
 
