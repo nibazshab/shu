@@ -37,7 +37,7 @@
 //acg.rip,acgrip
 //nyaa.si,nyaa
 //dmhy.org,动漫花园
-//btnull.org,btnull
+//www.gying.org,btnull
 //www.lige.fit/tvbox,tvbox接口
 
 > 图文处理
