@@ -42,6 +42,7 @@
 
 > 图文处理
 
+//web.baimiaoapp.com,白描
 //www.quarryman.cn/insect,昆虫识别
 //cli.im/deqr,扫描二维码
 //sorry.xuty.cc,生成表情包动图
