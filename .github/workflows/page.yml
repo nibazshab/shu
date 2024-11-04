@@ -1,0 +1,49 @@
+name: ghpage
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'README.md'
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+  
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - run: |
+          mv README.md index.html
+          sed -E '/(<!--|-->)/d' -i index.html
+          sed -E 's@(^//.*.?),(.*)@<a href=\1 target=_blank>\2</a>@g' -i index.html
+          sed -E 's@^> (.*)@<h2>\1</h2>@g' -i index.html
+          echo '<meta name=viewport content=width=device-width,initial-scale=1>' >> index.html
+          echo '<style>a{margin-right:15px;display:inline-block}@media(prefers-color-scheme:dark){html{background-color:#000000;color:#ffffff;}a{color:#9e9eff;}a:visited{color:#d0adf0;}}</style>' >> index.html
+          sed ':a;N;s/\n//g;ta' -i index.html
+          mkdir dist
+          mv index.html dist
+
+      - env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID_SHU }}
+        run: |
+          npm install -g netlify-cli
+          netlify link
+          netlify build
+          netlify deploy --dir=dist --prod
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'dist'
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
