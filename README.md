@@ -72,7 +72,7 @@
 
 //trackerslist.com,bttracker
 //greasyfork.org/zh-CN,greasyfork油猴脚本
-//mirror.ghproxy.com,github代理
+//ghp.ci,github代理
 //gridline.netlify.app,网格线页面
 //ol.woobx.cn,一个木函
 //riyutool.com/keyboard,日语输入法
