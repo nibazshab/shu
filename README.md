@@ -140,6 +140,7 @@
 //www.shj.work/tools/secha,找色差游戏
 //www.16personalities.com,人格测试
 //www.gobing.cn/experiment/vibrate,手柄测试
+//www.autopiano.cn,网页钢琴
 
 > 域名板块
 
