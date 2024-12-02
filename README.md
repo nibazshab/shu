@@ -72,7 +72,8 @@
 
 //trackerslist.com,bttracker
 //greasyfork.org/zh-CN,greasyfork油猴脚本
-//ghp.ci,github代理
+//ghp.ci,github代理1
+//www.ghproxy.cn,github代理2
 //gridline.netlify.app,网格线页面
 //ol.woobx.cn,一个木函
 //riyutool.com/keyboard,日语输入法
@@ -98,7 +99,7 @@
 //office365.com,onedrive
 //drive.google.com,谷歌drive
 //terabox.com,terabox海外百度网盘
-//www.loadbt.com,loadbt
+//mypikpak.net/drive/all,pikpak
 
 > 开发服务板块
 
@@ -167,7 +168,8 @@
 
 //www.e365xs.com,365中文小说网
 //hooks.upyun.com,又拍云回调服务
-//www.croxy.network,网页代理
+//www.croxy.network,croxy网页代理
+//www.loadbt.com,loadbt
 
 > 不可名状
 
