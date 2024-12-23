@@ -2,6 +2,7 @@
 
 > 电子书版块
 
+//play.google.com/books,谷歌图书
 //app.flowoss.com,flowreader
 //reader.nxnow.top,阅读
 //www.neat-reader.cn,neatreader
@@ -53,7 +54,6 @@
 > 影视板块
 
 //m3u8player.org,m3u8播发
-//webtor.io,webtor磁力播放
 //whatslink.info,磁力链接预览
 //acg.rip,acgrip
 //nyaa.si,nyaa
@@ -170,6 +170,7 @@
 //hooks.upyun.com,又拍云回调服务
 //www.croxy.network,croxy网页代理
 //www.loadbt.com,loadbt
+//webtor.io,webtor磁力播放
 
 > 不可名状
 
