@@ -35,7 +35,7 @@
 //imagestool.com/zh_CN/compress-images-to-specified-size,图片压缩
 //www.picdiet.com,picdiet
 //bigjpg.com,bigjpg
-//yandex.com/images,yandex搜图
+//yandex.eu/images,yandex搜图
 //images.google.com,谷歌搜图
 //saucenao.com,saucenao
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
