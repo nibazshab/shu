@@ -32,7 +32,7 @@
 //sorry.xuty.cc,表情包动图生成
 //www.tldraw.com,tldraw
 //www.photopea.com,photoshop
-//imagestool.com/zh_CN/compress-images-to-specified-size,图片压缩
+//imagestool.com/zh_CN/compress-images-to-specified-size,imagestool
 //www.picdiet.com,picdiet
 //bigjpg.com,bigjpg
 //yandex.eu/images,yandex搜图
@@ -85,6 +85,7 @@
 
 > 存储板块
 
+//mydrive.ch,webdav网盘512mb
 //www.backblaze.com,b2对象存储
 //cloud.mongodb.com,mongodb
 //www.sqlpub.com,sqlpub
@@ -163,6 +164,7 @@
 //web.telegram.org,telegram
 //vault.bitwarden.com,bitwarden
 //anilist.co,anilist
+//x.com,推特
 
 > 沉痛悼念
 
@@ -194,6 +196,6 @@
 //www.yuhuage.win,雨花阁番号搜索
 //theporndude.com,theporndude
 //www4.javhdporn.net,javhd
-//njav.tv,njav
+//123av.com/,njav
 
 -->
