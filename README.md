@@ -25,22 +25,23 @@
 
 > 图文板块
 
+//pixabay.com/zh/,pixabay图片素材库
 //wallspic.com,wallspic壁纸
 //web.baimiaoapp.com,白描
 //www.quarryman.cn/insect,昆虫识别
 //cli.im/deqr,草料二维码
 //sorry.xuty.cc,表情包动图生成
 //www.tldraw.com,tldraw
-//www.photopea.com,photoshop
+//www.photopea.com,photoshop在线ps
 //imagestool.com/zh_CN/compress-images-to-specified-size,imagestool
 //www.picdiet.com,picdiet
-//bigjpg.com,bigjpg
+//bigjpg.com,bigjpg图片放大
 //yandex.eu/images,yandex搜图
 //images.google.com,谷歌搜图
-//saucenao.com,saucenao
+//saucenao.com,saucenao搜图
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
 //www.webutils.app/text-diff,文本对比
-//www.paperpass.com,免费论文查重
+//www.paperpass.com,paperpass免费论文查重
 //note.wps.cn,wps便签
 //mubu.com,幕布
 //www.kdocs.cn,金山文档
@@ -59,6 +60,7 @@
 //nyaa.si,nyaa
 //dmhy.org,动漫花园
 //www.gying.org,btnull
+//embyplus.org,emby
 //ani.gamer.com.tw,巴哈姆特动画疯
 //eacg.net,eacg
 //www.zzzfun.one,zzzfun
