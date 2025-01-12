@@ -82,8 +82,6 @@
 //www.meiguodizhi.com,生成外国身份
 //service.spiritsoft.cn/ua.html,浏览器ua检测
 //10minutemail.net,十分钟邮箱
-//etempmail.com,临时教育邮箱
-//sms-activate.org/cn/freeNumbers,接码平台
 
 > 存储板块
 
@@ -146,8 +144,11 @@
 //www.gobing.cn/experiment/vibrate,手柄测试
 //www.autopiano.cn,网页钢琴
 
-> 域名板块
+> 其他板块
 
+//etempmail.com,临时教育邮箱
+//sms-activate.org/cn/freeNumbers,接码平台
+//www.talkatone.com,真手机号APP
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 //tld-list.com,tld域名比价
