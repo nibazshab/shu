@@ -148,7 +148,6 @@
 
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
-//www.talkatone.com,真手机号APP
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 //tld-list.com,tld域名比价
