@@ -54,7 +54,7 @@
 
 > 影视板块
 
-//m3u8player.org,m3u8播发
+//m3u8player.org,m3u8播放
 //whatslink.info,磁力链接预览
 //acg.rip,acgrip
 //nyaa.si,nyaa
