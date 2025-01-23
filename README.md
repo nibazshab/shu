@@ -86,6 +86,7 @@
 
 > 开发服务板块
 
+//www.toolscat.com/dev/data-generator,生成sql测试数据
 //free-for.dev,free-for免费资源
 //github.com/click33/chatgpt---mirror-station-summary,gpt集合
 //chato.free2gpt.xyz,free2gpt
