@@ -2,6 +2,7 @@
 
 > 电子书版块
 
+//weread.qq.com/,微信读书
 //play.google.com/books,谷歌图书
 //app.flowoss.com,flowreader
 //reader.nxnow.top,阅读
