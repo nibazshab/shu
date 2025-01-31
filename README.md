@@ -71,22 +71,21 @@
 //mm-player.vercel.app,mm-player
 //yuc.wiki,新番资讯
 
-> 工具板块
+> 工具服务板块
 
 //trackerslist.com,bttracker
-//greasyfork.org/zh-CN,greasyfork油猴脚本
 //ghproxy.link/,gh1代理发布页
 //www.ghproxy.cn,gh2代理
 //github.site,gh3镜像
+//greasyfork.org/zh-CN,greasyfork油猴脚本
 //gridline.netlify.app,网格线页面
 //ol.woobx.cn,一个木函
 //riyutool.com/keyboard,日语输入法
 //www.meiguodizhi.com,生成外国身份
 //service.spiritsoft.cn/ua.html,浏览器ua检测
 //10minutemail.net,十分钟邮箱
-
-> 开发服务板块
-
+//yunge.in,云鸽互传
+//snapdrop.net,snapdrop
 //www.toolscat.com/dev/data-generator,生成sql测试数据
 //free-for.dev,free-for免费资源
 //github.com/click33/chatgpt---mirror-station-summary,gpt集合
@@ -107,7 +106,7 @@
 
 > 存储板块
 
-//mydrive.ch,webdav网盘512mb
+//mydrive.ch,webdav盘512m
 //www.backblaze.com,b2对象存储
 //cloud.mongodb.com,mongodb
 //www.sqlpub.com,sqlpub
@@ -115,18 +114,16 @@
 //freedb.tech,freedb.tech
 //fars.ee/f,fars.ee
 //0x0.st,0x0.st
-//yunge.in,云鸽互传
-//snapdrop.net,snapdrop
-//www.file.io,file.io一次性网盘
+//www.file.io,file.io临时网盘
 //www.multcloud.com,multcloud网盘搬运
 //office365.com,onedrive
 //drive.google.com,谷歌drive
-//terabox.com,terabox海外百度网盘
+//terabox.com,terabox
 //mypikpak.net/drive/all,pikpak
 
 > 软件游戏板块
 
-//alternativeto.net,软件寻找替代品
+//alternativeto.net,寻找替代品
 //apkpremier.com,apkpremier
 //ipalibrary.me,ipalibrary
 //en.uptodown.com,uptodown
