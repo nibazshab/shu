@@ -87,20 +87,13 @@
 //yunge.in,云鸽互传
 //snapdrop.net,snapdrop
 //www.toolscat.com/dev/data-generator,生成sql测试数据
-//free-for.dev,free-for免费资源
 //github.com/click33/chatgpt---mirror-station-summary,gpt集合
 //chato.free2gpt.xyz,free2gpt
 //geminiprochat.com,谷歌ai
-//uptimerobot.com,uptimerobot
 //highlightcode.com,代码高亮
-//www.runoob.com/runcode,html代码运行
+//www.runoob.com/runcode,html运行
 //webhookinbox.com,web回调测试
-//stackblitz.com,stackblitz
 //shell.segfault.net,segfault
-//replit.com,replit
-//www.koyeb.com,koyeb
-//glitch.com,glitch.me
-//panel.ct8.pl,ct8.pl
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
 
@@ -146,8 +139,9 @@
 //www.gobing.cn/experiment/vibrate,手柄测试
 //www.autopiano.cn,网页钢琴
 
-> 其他板块
+> 平台板块
 
+//free-for.dev,free-for免费资源
 //www.cloudflare.com,cloudflare
 //dns.he.net,he.net
 //tld-list.com,tld域名比价
@@ -156,10 +150,16 @@
 //register.us.kg,us.kg域名
 //www.freenom.com,freenom域名
 //www.sitelutions.com,rr.nu域名
+//arch.icekylin.online,archlinux手册
+//stackblitz.com,stackblitz
+//replit.com,replit
+//www.koyeb.com,koyeb
+//glitch.com,glitch.me
+//panel.ct8.pl,ct8.pl
+//uptimerobot.com,uptimerobot
 
 > 未分类
 
-//arch.icekylin.online,archlinux安装手册
 //limestart.cn,青柠起始页
 //go.itab.link,itab起始页
 //web.oopz.cn,oopz语音
@@ -170,6 +170,8 @@
 
 > 沉痛悼念
 
+//acgngames.net,acgngame
+//www.btsou.co,磁力搜
 //www.e365xs.com,365中文小说网
 //hooks.upyun.com,又拍云回调服务
 //www.croxy.network,croxy网页代理
@@ -178,7 +180,6 @@
 
 > 不可名状
 
-//www.btsou.co,磁力搜
 //yacd.haishan.me,yacd仪表盘
 //clash.razord.top,clash仪表盘
 //soutubot.moe,搜本子机器人
@@ -192,7 +193,6 @@
 //sukebei.nyaa.si,nyaa里站
 //hanime1.me,hanime里番
 //mmgal.com,忧郁的loli
-//acgngames.net,acgngame
 //www.lzacg.net,量子acg
 //www.touchgal.io/,touchgal
 //www.yuhuage.win,雨花阁番号搜索
