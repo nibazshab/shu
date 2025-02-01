@@ -171,7 +171,6 @@
 > 沉痛悼念
 
 //acgngames.net,acgngame
-//www.btsou.co,磁力搜
 //www.e365xs.com,365中文小说网
 //hooks.upyun.com,又拍云回调服务
 //www.croxy.network,croxy网页代理
@@ -180,8 +179,7 @@
 
 > 不可名状
 
-//yacd.haishan.me,yacd仪表盘
-//clash.razord.top,clash仪表盘
+//www.btsou.cc,磁力搜
 //soutubot.moe,搜本子机器人
 //manhuabika.com,哔咔漫画
 //dashboard.tipatipa.xyz,哔咔骑士后台
@@ -199,5 +197,7 @@
 //theporndude.com,theporndude
 //www4.javhdporn.net,javhd
 //123av.com/,njav
+//yacd.haishan.me,yacd仪表盘
+//clash.razord.top,clash仪表盘
 
 -->
