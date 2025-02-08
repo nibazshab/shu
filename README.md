@@ -2,7 +2,7 @@
 
 > 电子书版块
 
-//weread.qq.com/,微信读书
+//weread.qq.com,微信读书
 //play.google.com/books,谷歌图书
 //app.flowoss.com,flowreader
 //reader.nxnow.top,阅读
@@ -26,7 +26,7 @@
 
 > 图文板块
 
-//pixabay.com/zh/,pixabay图片素材库
+//pixabay.com/zh,pixabay图片素材库
 //wallspic.com,wallspic壁纸
 //web.baimiaoapp.com,白描
 //www.quarryman.cn/insect,昆虫识别
@@ -74,7 +74,7 @@
 > 工具服务板块
 
 //trackerslist.com,bttracker
-//ghproxy.link/,gh1代理发布页
+//ghproxy.link,gh1代理发布页
 //www.ghproxy.cn,gh2代理
 //github.site,gh3镜像
 //greasyfork.org/zh-CN,greasyfork油猴脚本
@@ -192,11 +192,12 @@
 //hanime1.me,hanime里番
 //mmgal.com,忧郁的loli
 //www.lzacg.net,量子acg
-//www.touchgal.io/,touchgal
+//www.touchgal.io,touchgal
+//2dfan.com,gal补丁站
 //www.yuhuage.win,雨花阁番号搜索
 //theporndude.com,theporndude
 //www4.javhdporn.net,javhd
-//123av.com/,njav
+//123av.com,njav
 //yacd.haishan.me,yacd仪表盘
 //clash.razord.top,clash仪表盘
 
