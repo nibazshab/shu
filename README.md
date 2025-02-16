@@ -193,7 +193,7 @@
 //mmgal.com,忧郁的loli
 //www.lzacg.net,量子acg
 //www.touchgal.io,touchgal
-//2dfan.com,gal补丁站
+//2dfan.com,2dfan补丁站
 //www.yuhuage.win,雨花阁番号搜索
 //theporndude.com,theporndude
 //www4.javhdporn.net,javhd
