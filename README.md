@@ -87,7 +87,6 @@
 //yunge.in,云鸽互传
 //snapdrop.net,snapdrop
 //www.toolscat.com/dev/data-generator,生成sql测试数据
-//github.com/click33/chatgpt---mirror-station-summary,gpt集合
 //chato.free2gpt.xyz,free2gpt
 //geminiprochat.com,谷歌ai
 //highlightcode.com,代码高亮
