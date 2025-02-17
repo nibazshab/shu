@@ -26,7 +26,8 @@
 
 > 图文板块
 
-//pixabay.com/zh,pixabay图片素材库
+//igoutu.cn,igoutu图片素材
+//pixabay.com/zh,pixabay图片素材
 //wallspic.com,wallspic壁纸
 //web.baimiaoapp.com,白描
 //www.quarryman.cn/insect,昆虫识别
