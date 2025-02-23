@@ -84,7 +84,7 @@
 //ol.woobx.cn,一个木函
 //riyutool.com/keyboard,日语输入法
 //www.meiguodizhi.com,生成外国身份
-//service.spiritsoft.cn/ua.html,浏览器ua检测
+//tool.ip138.com/useragent,浏览器ua检测
 //10minutemail.net,十分钟邮箱
 //yunge.in,云鸽互传
 //snapdrop.net,snapdrop
