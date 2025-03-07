@@ -66,7 +66,6 @@
 //embyplus.org,emby
 //ani.gamer.com.tw,巴哈姆特动画疯
 //eacg.net,eacg
-//www.zzzfun.one,zzzfun
 //ddys.site,低端影视
 //www.lige.fit/tvbox,tvbox接口
 //pt.sayqz.com,简繁音乐
@@ -172,6 +171,7 @@
 
 > 沉痛悼念
 
+//www.zzzfun.one,zzzfun
 //acgngames.net,acgngame
 //www.e365xs.com,365中文小说网
 //hooks.upyun.com,又拍云回调服务
