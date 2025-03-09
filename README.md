@@ -24,9 +24,8 @@
 //www.amazon.com/sendtokindle,发送到kindle
 //books.fishhawk.top,轻小说翻译机器人
 
-> 图文板块
+> 图像板块
 
-//sitdown.mdnice.com/Demo.html,html转md
 //igoutu.cn,igoutu图片素材
 //pixabay.com/zh,pixabay图片素材
 //wallspic.com,wallspic壁纸
@@ -42,12 +41,16 @@
 //yandex.eu/images,yandex搜图
 //images.google.com,谷歌搜图
 //saucenao.com,saucenao搜图
+
+> 文字板块
+
+//riyutool.com/keyboard,日语输入法
+//sitdown.mdnice.com/Demo.html,html转md
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
 //www.webutils.app/text-diff,文本对比
 //www.paperpass.com,paperpass免费论文查重
 //note.wps.cn,wps便签
 //mubu.com,幕布
-//www.kdocs.cn,金山文档
 //www.ilovepdf.com/zh-cn,ilovepdf
 //app.diagrams.net,draw.io
 //katex.org/docs/supported.html,katex
@@ -74,14 +77,10 @@
 
 > 工具服务板块
 
+//ol.woobx.cn,一个木函
 //trackerslist.com,bttracker
-//ghproxy.link,gh1代理发布页
-//www.ghproxy.cn,gh2代理
-//github.site,gh3镜像
 //greasyfork.org/zh-CN,greasyfork油猴脚本
 //gridline.netlify.app,网格线页面
-//ol.woobx.cn,一个木函
-//riyutool.com/keyboard,日语输入法
 //www.meiguodizhi.com,生成外国身份
 //tool.ip138.com/useragent,浏览器ua检测
 //10minutemail.net,十分钟邮箱
@@ -89,7 +88,10 @@
 //snapdrop.net,snapdrop
 //www.toolscat.com/dev/data-generator,生成sql测试数据
 //chato.free2gpt.xyz,free2gpt
-//geminiprochat.com,谷歌ai
+//geminiprochat.com,geminiprochat
+//yuanbao.tencent.com/discovery,腾讯元宝
+//chat.deepseek.com,deepseek
+//chatgpt.com,chatgpt
 //highlightcode.com,代码高亮
 //www.runoob.com/runcode,html运行
 //webhookinbox.com,web回调测试
@@ -128,8 +130,8 @@
 //lichess.org,国际象棋
 //flash.zczc.cz,flash游戏
 //dos.lol,dos游戏
-//www.lanzout.com/iwXPw1nnoraj,拳皇wing1.91
-//www.lanzout.com/iIkVb1nnosej,死神vs火影2.6
+//www.lanzout.com/iwXPw1nnoraj,拳皇wing1.91.exe
+//www.lanzout.com/iIkVb1nnosej,死神vs火影2.6.exe
 //nes.heheda.top,红白机游戏
 //www.gamer520.com,laoquzhang520
 //www.mhhf.com,经典flash游戏
@@ -161,6 +163,7 @@
 
 > 未分类
 
+//www.kdocs.cn,金山文档
 //limestart.cn,青柠起始页
 //go.itab.link,itab起始页
 //web.oopz.cn,oopz语音
@@ -181,6 +184,9 @@
 
 > 不可名状
 
+//ghproxy.link,gh1代理发布页
+//www.ghproxy.cn,gh2代理
+//github.site,gh3镜像
 //www.btsou.cc,磁力搜
 //soutubot.moe,搜本子机器人
 //manhuabika.com,哔咔漫画
