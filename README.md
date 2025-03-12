@@ -47,7 +47,7 @@
 //riyutool.com/keyboard,日语输入法
 //sitdown.mdnice.com/Demo.html,html转md
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
-//www.webutils.app/text-diff,文本对比
+//www.diffchecker.com/zh-Hans/text-compare/,文本对比
 //www.paperpass.com,paperpass免费论文查重
 //note.wps.cn,wps便签
 //mubu.com,幕布
