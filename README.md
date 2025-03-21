@@ -98,7 +98,6 @@
 //shell.segfault.net,segfault
 //etempmail.com,临时教育邮箱
 //sms-activate.org/cn/freeNumbers,接码平台
-//copyweb.ai,网页复刻
 
 > 存储板块
 
