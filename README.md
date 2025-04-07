@@ -149,7 +149,7 @@
 //tld-list.com,tld域名比价
 //nic.eu.org,eu.org域名
 //www.now.cc,now.cc域名
-//register.us.kg,us.kg域名
+//register.us.kg,dpdns.org域名
 //www.freenom.com,freenom域名
 //www.sitelutions.com,rr.nu域名
 //arch.icekylin.online,archlinux手册
