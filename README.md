@@ -44,6 +44,7 @@
 
 > 文字板块
 
+//www.1ppt.com,1ppt网
 //riyutool.com/keyboard,日语输入法
 //sitdown.mdnice.com/Demo.html,html转md
 //abctool.gitlab.io/encoding-detector,abc文件编码检测
