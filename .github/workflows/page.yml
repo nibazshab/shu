@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     paths:
-      - 'README.md'
+      - 'nav.csv'
 
 jobs:
   job:
@@ -22,13 +22,16 @@ jobs:
       - uses: actions/checkout@v4
 
       - run: |
-          mv README.md index.html
-          sed -E '/(<!--|-->)/d' -i index.html
-          sed -E 's@(^//.*.?),(.*)@<a href=\1 target=_blank>\2</a>@g' -i index.html
-          sed -E 's@^> (.*)@<h2>\1</h2>@g' -i index.html
+          mv nav.csv index.html
+
+      - run: |
+          sed -E 's@^([^#].*.?),(.*)@<a href=//\1 target=_blank>\2</a>@g' index.html -i
+          sed -E 's@^# (.*)@<h2>\1</h2>@g' index.html -i
           echo '<meta name=viewport content=width=device-width,initial-scale=1>' >> index.html
-          echo '<style>a{margin-right:15px;display:inline-block}@media(prefers-color-scheme:dark){html{background-color:#000000;color:#ffffff;}a{color:#9e9eff;}a:visited{color:#d0adf0;}}</style>' >> index.html
-          sed ':a;N;s/\n//g;ta' -i index.html
+          echo '<style>a{margin-right:15px;display:inline-block}@media(prefers-color-scheme:dark){html{background-color:#121212;color:#ffffff}a{color:#9e9eff}a:visited{color:#d0adf0}}</style>' >> index.html
+          sed ':a;N;s/\n//g;ta' index.html -i
+
+      - run: |
           mkdir dist
           mv index.html dist
           echo -e '[[headers]]\nfor = "/*"\n[headers.values]\ncache-control = "public, max-age=10800"' > netlify.toml
