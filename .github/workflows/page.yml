@@ -35,7 +35,7 @@ jobs:
       - run: |
           mkdir dist
           mv index.html dist
-          echo -e '[[headers]]\nfor = "/*"\n[headers.values]\ncache-control = "public, max-age=10800"' > netlify.toml
+          echo -e '[[headers]]\nfor = "/*"\n[headers.values]\ncache-control = "public, max-age=86400"' > netlify.toml
 
       - env:
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
