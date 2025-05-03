@@ -1,6 +1,6 @@
 ,
 
-#,电子书版块
+# 电子书版块
 
 weread.qq.com,微信读书
 play.google.com/books,谷歌图书
@@ -24,7 +24,7 @@ kox.moe,kox.moe
 www.amazon.com/sendtokindle,发送到kindle
 books.fishhawk.top,轻小说翻译机器人
 
-#,图像板块
+# 图像板块
 
 igoutu.cn,igoutu图片素材
 pixabay.com/zh,pixabay图片素材
@@ -42,7 +42,7 @@ yandex.eu/images,yandex搜图
 images.google.com,谷歌搜图
 saucenao.com,saucenao搜图
 
-#,文字板块
+# 文字板块
 
 www.notion.so,notion
 www.1ppt.com,1ppt网
@@ -60,7 +60,7 @@ telegra.ph,telegraph
 www.deepl.com/translator,deepl
 fanyi.caiyunapp.com,彩云小译
 
-#,影视板块
+# 影视板块
 
 m3u8player.org,m3u8播放
 whatslink.info,磁力链接预览
@@ -77,7 +77,7 @@ pt.sayqz.com,简繁音乐
 mm-player.vercel.app,mm-player
 yuc.wiki,新番资讯
 
-#,工具服务板块
+# 工具服务板块
 
 ol.woobx.cn,一个木函
 trackerslist.com,bttracker
@@ -101,7 +101,7 @@ shell.segfault.net,segfault
 etempmail.com,临时教育邮箱
 sms-activate.org/cn/freeNumbers,接码平台
 
-#,存储板块
+# 存储板块
 
 mydrive.ch,webdav盘512m
 www.backblaze.com,b2对象存储
@@ -118,7 +118,7 @@ drive.google.com,谷歌drive
 terabox.com,terabox
 mypikpak.net/drive/all,pikpak
 
-#,软件游戏板块
+# 软件游戏板块
 
 onejailbreak.com,onejailbreak
 alternativeto.net,寻找替代品
@@ -144,7 +144,7 @@ www.16personalities.com,人格测试
 www.gobing.cn/experiment/vibrate,手柄测试
 www.autopiano.cn,网页钢琴
 
-#,平台板块
+# 平台板块
 
 free-for.dev,free-for免费资源
 www.cloudflare.com,cloudflare
@@ -163,7 +163,7 @@ glitch.com,glitch.me
 panel.ct8.pl,ct8.pl
 uptimerobot.com,uptimerobot
 
-#,未分类
+# 未分类
 
 www.kdocs.cn,金山文档
 limestart.cn,青柠起始页
@@ -174,7 +174,7 @@ vault.bitwarden.com,bitwarden
 anilist.co,anilist
 x.com,推特
 
-#,沉痛悼念
+# 沉痛悼念
 
 www.zzzfun.one,zzzfun
 acgngames.net,acgngame
@@ -184,7 +184,7 @@ www.croxy.network,croxy网页代理
 www.loadbt.com,loadbt
 webtor.io,webtor磁力播放
 
-#,不可名状
+# 不可名状
 
 ghproxy.link,gh1代理发布页
 www.ghproxy.cn,gh2代理
