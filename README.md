@@ -120,6 +120,7 @@
 
 > 软件游戏板块
 
+//onejailbreak.com,onejailbreak
 //alternativeto.net,寻找替代品
 //apkpremier.com,apkpremier
 //ipalibrary.me,ipalibrary
