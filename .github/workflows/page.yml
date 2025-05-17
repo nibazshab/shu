@@ -26,10 +26,11 @@ jobs:
           sed 1d index.html -i
 
       - run: |
-          sed -E 's@^([^#].*.?),(.*)@<a href=//\1 target=_blank>\2</a>@g' index.html -i
+          sed -E 's@^([^#].*.?),(.*)@<a href=//\1>\2</a>@g' index.html -i
           sed -E 's@^#,(.*)@<h2>\1</h2>@g' index.html -i
           echo '<meta name=viewport content=width=device-width,initial-scale=1>' >> index.html
-          echo '<style>a{margin-right:15px;display:inline-block}@media(prefers-color-scheme:dark){html{background-color:#121212;color:#ffffff}a{color:#9e9eff}a:visited{color:#d0adf0}}</style>' >> index.html
+          echo '<base target=_blank>' >> index.html
+          echo '<style>a{margin-right:15;display:inline-block}@media(prefers-color-scheme:dark){html{background:#121212;color:#fff}a{color:#9e9eff}a:visited{color:#d0adf0}}' >> index.html
           sed ':a;N;s/\n//g;ta' index.html -i
 
       - run: |
