@@ -105,18 +105,22 @@ sms-activate.org/cn/freeNumbers,接码平台
 
 #,存储板块
 
-mydrive.ch,webdav盘512m
-www.backblaze.com,b2对象存储
+bashupload.com,bashupload_(cil)
+fars.ee/f,fars.ee_(cil)
+0x0.st,0x0.st_(cil)
+www.file.io,file.io_(cil)
+
+mydrive.ch,mydrive_(webdav_512m)
+www.backblaze.com,b2_(对象存储)
+
 cloud.mongodb.com,mongodb
-www.sqlpub.com,sqlpub
-db4free.net,db4free.net
-freedb.tech,freedb.tech
-fars.ee/f,fars.ee
-0x0.st,0x0.st
-www.file.io,file.io临时网盘
-www.multcloud.com,multcloud网盘搬运
-office365.com,onedrive
-drive.google.com,谷歌drive
+www.sqlpub.com,sqlpub_(mysql)
+freedb.tech,freedb.tech_(mysql)
+db4free.net,db4free.net_(mysql)
+
+www.multcloud.com,multcloud_(网盘搬运)
+office365.com,onedrive_365
+drive.google.com,google_drive
 terabox.com,terabox
 mypikpak.net/drive/all,pikpak
 
