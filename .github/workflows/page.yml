@@ -23,7 +23,7 @@ jobs:
 
       - run: |
           mv nav.csv index.html
-          sed 1d index.html -i
+          sed -E '/^,/d' index.html -i
 
       - run: |
           sed -E 's@^([^#].*.?),(.*)@<a href=//\1>\2</a>@g' index.html -i
