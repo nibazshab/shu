@@ -1,6 +1,6 @@
 ,
 
-#,电子书版块
+#,文字版块
 
 weread.qq.com,微信读书
 play.google.com/books,谷歌图书
@@ -15,16 +15,30 @@ zh.annas-archive.org,安娜的档案馆
 z-lib.gs,zlibrary
 ifun.cool,趣集
 onehu.xyz,我不是盐神
-www.esjzone.cc,esj
+www.esjzone.cc,esjzone
 www.linovelib.com,哔哩轻小说
 www.lightnovel.fun,轻之国度
 masiro.me,真白萌
 www.mangabz.com,mangabz
 www.volmoe.com,kox.moe
-www.amazon.com/sendtokindle,发送到kindle
-books.fishhawk.top,轻小说翻译机器人
+www.amazon.com/sendtokindle,send2kindle
+books.fishhawk.top,轻小说机翻机器人
+www.notion.so,notion
+www.1ppt.com,1ppt网
+sitdown.mdnice.com/Demo.html,html2md
+abctool.gitlab.io/encoding-detector,Abc文件编码检测工具
+www.diffchecker.com/zh-Hans/text-compare,文本对比
+www.paperpass.com,paperpass
+note.wps.cn,wps便签
+mubu.com,幕布
+www.ilovepdf.com/zh-cn,ilovepdf
+katex.org/docs/supported.html,katex
+telegra.ph,telegraph
+www.deepl.com/translator,deepl
+fanyi.caiyunapp.com,彩云小译
+www.kdocs.cn,金山文档
 
-#,图像板块
+#,影像板块
 
 igoutu.cn,igoutu图片素材
 pixabay.com/zh,pixabay图片素材
@@ -34,34 +48,14 @@ www.quarryman.cn/insect,昆虫识别
 cli.im/deqr,草料二维码
 sorry.xuty.cc,表情包动图生成
 www.tldraw.com,tldraw
-www.photopea.com,photoshop在线ps
+www.photopea.com,photopea
 imagestool.com/zh_CN/compress-images-to-specified-size,imagestool
 www.picdiet.com,picdiet
-bigjpg.com,bigjpg图片放大
-yandex.eu/images,yandex搜图
+bigjpg.com,bigjpg
+yandex.ru/images,yandex搜图
 images.google.com,谷歌搜图
 saucenao.com,saucenao搜图
-
-#,文字板块
-
-www.notion.so,notion
-www.1ppt.com,1ppt网
-riyutool.com/keyboard,日语输入法
-sitdown.mdnice.com/Demo.html,html转md
-abctool.gitlab.io/encoding-detector,abc文件编码检测
-www.diffchecker.com/zh-Hans/text-compare,文本对比
-www.paperpass.com,paperpass免费论文查重
-note.wps.cn,wps便签
-mubu.com,幕布
-www.ilovepdf.com/zh-cn,ilovepdf
 app.diagrams.net,draw.io
-katex.org/docs/supported.html,katex
-telegra.ph,telegraph
-www.deepl.com/translator,deepl
-fanyi.caiyunapp.com,彩云小译
-
-#,影视板块
-
 m3u8player.org,m3u8播放
 whatslink.info,磁力链接预览
 acg.rip,acgrip
@@ -79,6 +73,7 @@ yuc.wiki,新番资讯
 
 #,工具服务板块
 
+riyutool.com/keyboard,日语输入法
 www.postman.com/web,postman
 app.apifox.com,apifox
 ol.woobx.cn,一个木函
@@ -102,24 +97,21 @@ webhookinbox.com,web回调测试
 www.thc.org/segfault,segfault
 etempmail.com,临时教育邮箱
 sms-activate.org/cn/freeNumbers,接码平台
-hexed.it,在线16进制编辑器
+hexed.it,16进制编辑器
 
 #,存储板块
 
-bashupload.com,bashupload_(cil)
-fars.ee/f,fars.ee_(cil)
-0x0.st,0x0.st_(cil)
-www.file.io,file.io_(cil)
-
-mydrive.ch,mydrive_(webdav_512m)
-www.backblaze.com,b2_(对象存储)
-
+bashupload.com,bashupload
+fars.ee/f,fars.ee
+0x0.st,0x0.st
+www.file.io,file.io
+mydrive.ch,mydrive
+www.backblaze.com,b2
 cloud.mongodb.com,mongodb
-www.sqlpub.com,sqlpub_(mysql)
-freedb.tech,freedb.tech_(mysql)
-db4free.net,db4free.net_(mysql)
-
-www.multcloud.com,multcloud_(网盘搬运)
+www.sqlpub.com,sqlpub
+freedb.tech,freedb.tech
+db4free.net,db4free.net
+www.multcloud.com,multcloud
 office365.com,onedrive_365
 drive.google.com,google_drive
 terabox.com,terabox
@@ -140,11 +132,9 @@ game.hullqin.cn,桌游合集
 lichess.org,国际象棋
 flash.zczc.cz,flash游戏
 dos.lol,dos游戏
-www.lanzout.com/iwXPw1nnoraj,拳皇wing1.91.exe
-www.lanzout.com/iIkVb1nnosej,死神vs火影2.6.exe
 nes.heheda.top,红白机游戏
 www.gamer520.com,laoquzhang520
-www.mhhf.com,经典flash游戏
+www.mhhf.com,灵动游戏
 h5mota.com,魔塔
 zh.y8.com/games/8_ball_pool_html5,黑八台球
 www.shj.work/tools/secha,找色差游戏
@@ -172,14 +162,10 @@ uptimerobot.com,uptimerobot
 
 #,未分类
 
-www.kdocs.cn,金山文档
 limestart.cn,青柠起始页
 go.itab.link,itab起始页
-web.oopz.cn,oopz语音
-web.telegram.org,telegram
 vault.bitwarden.com,bitwarden
 anilist.co,anilist
-x.com,推特
 
 #,沉痛悼念
 
@@ -197,7 +183,6 @@ webtor.io,webtor磁力播放
 
 ghproxy.link,gh1代理发布页
 ghproxy.cfd,gh2代理
-github.site,gh3镜像
 www.btsou.cc,磁力搜
 soutubot.moe,搜本子机器人
 manhuabika.com,哔咔漫画
@@ -209,7 +194,7 @@ hitomi.la,hitomi
 b.iacg.site,iacg博客
 sukebei.nyaa.si,nyaa里站
 hanime1.me,hanime里番
-www.iwara.tv,iware(i站)
+www.iwara.tv,iware站
 mmgal.com,忧郁的loli
 lzacg.org,量子acg
 www.touchgal.io,touchgal
@@ -219,5 +204,3 @@ www.yuhuage.win,雨花阁番号搜索
 theporndude.com,theporndude
 www4.javhdporn.net,javhd
 123av.com,njav
-yacd.haishan.me,yacd仪表盘
-clash.razord.top,clash仪表盘
