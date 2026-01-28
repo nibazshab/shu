@@ -10,14 +10,6 @@ jobs:
   job:
     runs-on: ubuntu-latest
 
-    permissions:
-      pages: write
-      id-token: write
-  
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-
     steps:
       - uses: actions/checkout@v4
 
@@ -46,10 +38,3 @@ jobs:
           netlify link
           netlify build
           netlify deploy --dir=dist --prod
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: 'dist'
-
-      - id: deployment
-        uses: actions/deploy-pages@v4
