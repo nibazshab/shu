@@ -1,0 +1,30 @@
+name: gh-ariang-page
+
+on:
+  workflow_dispatch:
+
+jobs:
+  job:
+    runs-on: ubuntu-latest
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - run: |
+          wget https://github.com/mayswind/AriaNg-DailyBuild/archive/master.zip -O a.zip
+          unzip a.zip
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: 'AriaNg-DailyBuild-master'
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
