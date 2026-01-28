@@ -1,4 +1,4 @@
-name: ghpage
+name: vercel-shu-page
 
 on:
   workflow_dispatch:
