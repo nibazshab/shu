@@ -1,4 +1,4 @@
-name: vercel-shu-page
+name: netlify-shu-page
 
 on:
   workflow_dispatch:
