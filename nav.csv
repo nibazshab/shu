@@ -58,34 +58,16 @@ riyutool.com/keyboard,日语输入法
 gridline.netlify.app,网格页面
 tiermaker.com,从夯到拉排名
 web.localsend.org,localsend-web
-
-#,开发
-
 ol.woobx.cn,一个木函
-hexed.it,16进制编辑器
 www.diffchecker.com/zh-Hans/text-compare,文本对比
-abctool.gitlab.io/encoding-detector,Abc文件编码检测工具
-www.runoob.com/runcode,html运行
-webhookinbox.com,web回调测试
-www.postman.com/web,postman
-app.apifox.com,apifox
-www.toolscat.com/dev/data-generator,生成sql测试数据
-sitdown.mdnice.com/Demo.html,html2md
 www.meiguodizhi.com,外国身份生成
 10minutemail.net,十分钟邮箱
-katex.org/docs/supported.html,katex语法
-arch.icekylin.online,archlinux安装手册
-bashupload.com,bashupload
-fars.ee/f,fars.ee
-0x0.st,0x0.st
-www.file.io,file.io
 
-#,平台
+#,开发平台
 
 free-for.dev,free-for免费资源
 cloud.mongodb.com,mongodb
 www.sqlpub.com,sqlpub
-freedb.tech,freedb.tech
 db4free.net,db4free.net
 ap-northeast-1.run.claw.cloud,claw.cloud
 www.cloudflare.com,cloudflare
@@ -101,14 +83,22 @@ glitch.com,glitch.me
 uptimerobot.com,uptimerobot
 panel.ct8.pl,ct8.pl
 www.thc.org/segfault,segfault
-vault.bitwarden.com,bitwarden
 www.multcloud.com,multcloud
 www.backblaze.com,b2oss
 mydrive.ch,mydrive
 infini-cloud.net,infinicloud
-www.dropbox.com,dropbox
-terabox.com,terabox
-mypikpak.net/drive/all,pikpak
+hexed.it,16进制编辑器
+abctool.gitlab.io/encoding-detector,Abc文件编码检测工具
+www.runoob.com/runcode,html运行
+webhookinbox.com,web回调测试
+www.toolscat.com/dev/data-generator,生成sql测试数据
+sitdown.mdnice.com/Demo.html,html2md
+katex.org/docs/supported.html,katex语法
+arch.icekylin.online,archlinux安装手册
+bashupload.com,bashupload
+fars.ee/f,fars.ee
+0x0.st,0x0.st
+www.file.io,file.io
 
 #,软件
 
@@ -121,6 +111,10 @@ en.uptodown.com,uptodown谷歌商店
 store.rg-adguard.net,微软商店链接生成
 jetbra.in/s,jetbrains破解
 chromium.woolyss.com,chromium浏览器
+www.dropbox.com,dropbox
+terabox.com,terabox
+mypikpak.net/drive/all,pikpak
+vault.bitwarden.com,bitwarden
 
 #,游戏
 
