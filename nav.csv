@@ -1,8 +1,6 @@
 ,
 #,文娱
 
-weread.qq.com,微信读书
-play.google.com/books,谷歌图书
 www.jiumodiary.com,鸠摩搜书
 zxcs.info,知轩藏书
 zh.annas-archive.org,安娜的档案馆
@@ -38,10 +36,9 @@ wallspic.com,wallspic壁纸
 www.1ppt.com,第一ppt
 www.ypppt.com,优品ppt
 greasyfork.org/zh-CN,greasyfork油猴脚本
-trackerslist.com,bttracker
+trackerslist.com,bitcomettracker
 www.notion.so,notion
 note.youdao.com,有道云笔记
-www.paperpass.com,paperpass
 note.wps.cn,wps便签
 www.ilovepdf.com/zh-cn,ilovepdf
 www.kdocs.cn,金山文档
@@ -61,7 +58,6 @@ web.localsend.org,localsend-web
 ol.woobx.cn,一个木函
 www.diffchecker.com/zh-Hans/text-compare,文本对比
 www.meiguodizhi.com,外国身份生成
-10minutemail.net,十分钟邮箱
 
 #,开发平台
 
@@ -70,13 +66,10 @@ cloud.mongodb.com,mongodb
 www.sqlpub.com,sqlpub
 db4free.net,db4free.net
 ap-northeast-1.run.claw.cloud,claw.cloud
-www.cloudflare.com,cloudflare
-dns.he.net,he.net
+dns.he.net,dns.he.net
 tld-list.com,tld域名比价
 nic.eu.org,eu.org域名
-www.now.cc,now.cc域名
 register.us.kg,dpdns.org域名
-stackblitz.com,stackblitz
 replit.com,replit
 glitch.com,glitch.me
 panel.ct8.pl,ct8.pl
